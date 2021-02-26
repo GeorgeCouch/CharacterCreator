@@ -1,5 +1,8 @@
 # CharacterCreator
 
+# Requirements
+I wrote this in IntelliJ, but it should work in any IDE.
+
 # Description
 This program allows for an administrator to define what is possible in what a character can have.
 The program then displays those options to the user and the user is able to create a character based off of those choices.
